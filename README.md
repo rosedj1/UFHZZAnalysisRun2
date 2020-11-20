@@ -29,7 +29,7 @@ cmsRun UFHZZAnalysisRun2/UFHZZ4LAna/python/Sync_102X_2017_Legacy_cfg.py
 cmsRun UFHZZAnalysisRun2/UFHZZ4LAna/python/Sync_102X_2018_Legacy_cfg.py
 ```
 
-Only run over **a maximum of 10K events**.
+Only run over **a maximum of 10K events** locally!
 If you need to run over more, then you should submit a CRAB job (remember to test your code locally before submitting to CRAB):
 
 ```bash
